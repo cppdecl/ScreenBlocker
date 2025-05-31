@@ -6,8 +6,9 @@ Screen Blocker is a simple Windows Forms Application written in C# that allows y
 I personally wrote this in a few minutes prior to an exam about truth tables on my discrete structures class so I can easily match propositions with my bad eyesight.
 
 
-
-
+## Installation
+1. Make sure to install ![.NET 6.0 Desktop Runtime (Windows)](https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=6.0.0&arch=x64&rid=win-x64&os=win10&gui=true)
+2. Via the releases page, download the installer, and execute.
 
 ## Features
 
